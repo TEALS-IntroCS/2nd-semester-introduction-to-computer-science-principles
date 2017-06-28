@@ -1,5 +1,10 @@
-# 2nd-semester-introduction-to-computer-science
+# 2nd-semester-introduction-to-computer-science - Depricated
 A 2nd semester follow-up to the TEALS Intro CS course
+
+This repository will be depricated after the 2016-17 school year.  The 2nd Semeseter Introduction to Computer Science curriculum is moving to a new GitHub repository and GitBook location starting the 2017-18 school year.
+
+- GitHub: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science
+- GitBook: https://tealsk12.gitbooks.io/2nd-semester-introduction-to-computer-science/content/
 
 # License
 This curriculum is licensed under the Creative Commons Attribution Non-Commercial Share-alike License (http://creativecommons.org/licenses/by-nc-sa/4.0/), which means you may share and adapt this material for non-commercial uses as long as you attribute its original source, and retain these same licensing terms.
