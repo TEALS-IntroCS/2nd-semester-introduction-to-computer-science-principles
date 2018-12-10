@@ -4,7 +4,7 @@
 
 ```python
     a = 0
-    while a< 100: 
+    while a < 10: 
         print(a)
 ```
 | **Predicted Output** | **Actual Output** |
@@ -13,7 +13,7 @@
 
 ```python
     a = 0
-    while a < 100: 
+    while a < 10: 
         a = a + 1
         print(a)
 ```
@@ -21,9 +21,10 @@
 | --- | --- |
 |<br> |<br> | 
     
+Create a set of test cases for the following sample code and predict the behavior.  
 ```python
     a = input("Would you like to quit: ")
-    while a != "y": 
+    while a != "y" and a != "n" :
         a = input("Would you like to quit: ")
 ```
 | **Predicted Output** | **Actual Output** |
